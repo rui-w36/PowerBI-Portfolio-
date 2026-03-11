@@ -1,4 +1,3 @@
-# PowerBI-Portfolio-
 # 🛍 Online Retail Business Analytics
 
 ## Project Overview
@@ -68,7 +67,4 @@ https://app.powerbi.com/view?r=eyJrIjoiZDk5ZmVjOTEtMGQyMy00NGI2LTg5YzEtNzA1MjdlN
 
 ---
 
-## 📌 About This Project
-
-This project demonstrates end-to-end business analytics capabilities, including data validation, KPI design, segmentation modeling, and executive-level reporting.
 
