@@ -1,6 +1,7 @@
 # PowerBI Portfolio
 
 Welcome to my **PowerBI Portfolio**! 👏👏👏
+
 This repository showcases and organizes my PowerBI visualizations. Each project includes a detailed analysis, data processing methods, and a direct link to the PowerBI report. 
 
 I am continuously updating this portfolio with new projects and tutorials, so stay tuned!
@@ -20,8 +21,13 @@ I am continuously updating this portfolio with new projects and tutorials, so st
 
 ---
 
-### 2. Public Company 5-Year Financial Analysis (In Progress)
+### 2. Public Company 5-Year Financial Analysis (Completed)
 - **Description:** An project analyzing five years of financial data of a public company. The dataset was Power Query using Python before being visualized in PowerBI.
+- - [Click here to view project files](./projects/02-Financial-data) 
+- **Demo:**  
+ ![Demo 1](./Financial1.gif)
+ ![Demo 2](./Financial2.gif)
+ ![Demo 3](./Financial3.gif)
 
 ---
 
