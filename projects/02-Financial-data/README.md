@@ -28,7 +28,7 @@ The report consists of four specialized analytical pages:
 
 1. **Income Statement:** Analysis of revenue trends, COGS, and operational efficiency.
 2. **Balance Sheet:** Visualizing asset structure, debt levels, and liquidity.
-3. **Cash Flow:** Tracking the gap between Operating Cash Flow and heavy CapEx (SSP platform, PowerCo battery plants, CARIAD).
+3. **Cash Flow:** Tracking the gap between Operating Cash Flow and heavy CapEx.
 4. **DuPont Analysis:** A strategic breakdown of **Return on Equity (ROE)** to identify the true drivers of profitability and financial leverage.
 
 ---
