@@ -21,7 +21,7 @@ I am continuously updating this portfolio with new projects and tutorials, so st
 ---
 
 ### 2. Public Company 5-Year Financial Analysis (In Progress)
-- **Description:** An ongoing project analyzing five years of financial data of a public company. Insights and PowerBI visualizations will be added once completed.
+- **Description:** An project analyzing five years of financial data of a public company. The dataset was Power Query using Python before being visualized in PowerBI.
 
 ---
 
