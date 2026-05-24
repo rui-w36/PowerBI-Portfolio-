@@ -28,6 +28,13 @@ I am continuously updating this portfolio with new projects and tutorials, so st
  ![Demo 1](./Financial1.gif)
  ![Demo 2](./Financial2.gif)
  ![Demo 3](./Financial3.gif)
+ 
+---
+### 3. E-commerce App Transactional Data Analysis (Completed)
+- **Description:** This project conducts in-depth e-commerce business and customer consumer behavior analysis based on real transactional datasets. Raw data is processed and cleaned by SQL, then visualized and explored via interactive Power BI dashboard. 
+- - [Click here to view project files](./projects/03-E-commerce App Transactional Data) 
+- **Demo:**  
+!(03-E-commerce App Transactional Data/From Click to Cart.mp4)
 
 ---
 
