@@ -1,4 +1,4 @@
-# 🛍 Frompink to Chart: Business & Consumer Behavior E-commerce Analysis
+# 🛍 From Click to Chart: Business & Consumer Behavior E-commerce Analysis
 ## Project Overview
 This project conducts in-depth e-commerce business and customer consumer behavior analysis based on real transactional datasets. Raw data is processed and cleaned by SQL, then visualized and explored via interactive Power BI dashboard. The research covers business KPI performance, time trend, regional contribution, user life cycle, user retention & churn, user portrait segmentation, APP user journey and payment failure influencing factors, providing comprehensive data insights for e-commerce operational decision-making.
 
