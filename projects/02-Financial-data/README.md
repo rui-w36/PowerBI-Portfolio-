@@ -43,7 +43,7 @@ A robust library of DAX measures was developed for this report, including:
 ---
 
 ## 🚀 Interactive Dashboard
-**Interactive Demo:** [https://app.powerbi.com/groups/me/reports/49c30ecb-bfc6-410d-ac26-03705a180104/46865ce90bba2bb8de88?experience=power-bi]
+**Interactive Demo:** [https://app.powerbi.com/view?r=eyJrIjoiYzcyZjkwMTgtNzMzYi00OGIwLTllYTItMmQ3OWFiOGI0NTM1IiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D]
 
 ---
 
