@@ -33,8 +33,8 @@ I am continuously updating this portfolio with new projects and tutorials, so st
 ### 3. E-commerce App Transactional Data Analysis (Completed)
 - **Description:** This project conducts in-depth e-commerce business and customer consumer behavior analysis based on real transactional datasets. Raw data is processed and cleaned by SQL, then visualized and explored via interactive Power BI dashboard. 
 - - [Click here to view project files](./projects/03-E-commerce%20App%20Transactional%20Data/) 
-- **Demo:**  
-[Watch Demo Video](From_Click_to_Cart.mp4)
+- **Demo Video:**  
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7463326916431802368?compact=1" height="750" width="420" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ---
 
