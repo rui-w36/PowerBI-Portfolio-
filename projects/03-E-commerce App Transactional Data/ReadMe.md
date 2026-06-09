@@ -47,7 +47,8 @@ This project conducts in-depth e-commerce business and customer consumer behavio
 ## 📊 Interactive Dashboard
 🔗 Live Power BI Interactive Report:
 https://app.powerbi.com/view?r=eyJrIjoiZTcxMTJkNzYtZGMxMi00Yjc3LTk4OWYtMDE2MGRjYmU1MTdjIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D
-
+## 🎥 Demo: Interactive Dashboard Walkthrough
+[Watch the full demo video on LinkedIn](https://www.linkedin.com/posts/rui-wang-a9154a383_from-click-to-chat-business-performance-ugcPost-7463326916431802368-PD1m/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF6WOY0Bdb4_sOgMxVMJiI0tu-d2MNuzCrg)
 ---
 
 ## 🧠 Analytical Methods
