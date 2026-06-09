@@ -34,7 +34,7 @@ I am continuously updating this portfolio with new projects and tutorials, so st
 - **Description:** This project conducts in-depth e-commerce business and customer consumer behavior analysis based on real transactional datasets. Raw data is processed and cleaned by SQL, then visualized and explored via interactive Power BI dashboard. 
 - - [Click here to view project files](./projects/03-E-commerce%20App%20Transactional%20Data/) 
 - **Demo:**  
-[Watch Demo Video](From Click to Cart.mp4)
+[Watch Demo Video](From_Click_to_Cart.mp4)
 
 ---
 
